@@ -1,0 +1,7 @@
+baseURL: https://blog.designsaga.se/
+languageCode: en-us
+title: Sangeeth G's Blog
+theme: PaperMod
+
+# which folder to publish to 
+publishDir: D:\Sangeeth\Design Saga\Site\DS 2024\static\blog
