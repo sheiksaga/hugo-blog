@@ -4,3 +4,6 @@ title: Sangeeth G's Blog
 theme: hugo-PaperMod
 ShowToc: true
 
+params:
+  ShowBreadCrumbs: true
+
