@@ -9,7 +9,6 @@ params =
 
 +++
 
-# Sharpen an axe for longer
 
 The title is paraphrased from a quote that is [*incorrectly*](https://quoteinvestigator.com/2014/03/29/sharp-axe/) attributed to Abraham Lincoln: 
 > To Cut Down a Tree in Five Minutes Spend Three Minutes Sharpening Your Axe
