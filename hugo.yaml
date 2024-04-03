@@ -1,5 +1,27 @@
 baseURL: https://blog.designsaga.se/
 languageCode: en-us
-title: Sangeeth G's Blog
+title: Sangeeth's Blog
 theme: hugo-PaperMod
 
+enableInlineShortcodes: true
+enableEmoji: true # allowing using emoji
+enableRobotsTXT: true
+
+minify:
+    disableXML: true
+    # minifyOutput: true
+
+permalinks:
+    post: "/:title/"
+    # post: "/:year/:month/:day/:title/"
+
+
+
+
+params:
+    ShowReadingTime: true
+    ShowBreadCrumbs: true
+    ShowWordCounts: true
+
+    ShowToc: true
+    TocOpen: true
