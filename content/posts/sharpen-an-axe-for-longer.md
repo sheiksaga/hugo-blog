@@ -2,6 +2,11 @@
 title = 'Sharpen an Axe for Longer'
 date = 2024-04-02T23:05:17+02:00
 draft = false
+ShowToc = true
+
+params =
+  ShowBreadCrumbs = true
+
 +++
 
 # Sharpen an axe for longer
@@ -28,8 +33,13 @@ In my case this would be TailwindCSS and Hugo + Papermod. I could have saved a t
 
 ### The exception that proves the rule
 
-If you are a serial procrastinator, perhaps avoid doing this. You might end up sharpening your axe for much longer than necessary. 
+If you are a serial procrastinator, perhaps avoid doing this. You might end up sharpening your axe for much longer than necessary.  
 
+<br/>
+<br/>
+
+#### MISC
+For more information on how to get a hugo blog started up with a custom theme (specifically for cloudflare pages and github), [this article](https://www.andrewhoog.com/post/git-submodule-for-hugo-themes/) is super helpful
 
 
 [^1]: This mostly rings true, but there are times when it is better to start doing and stop studying
