@@ -6,7 +6,7 @@ draft = false
 
 # Sharpen an axe for longer
 
-The title is from a quote that is [*incorrectly*](https://quoteinvestigator.com/2014/03/29/sharp-axe/) attributed to Abraham Lincoln: 
+The title is paraphrased from a quote that is [*incorrectly*](https://quoteinvestigator.com/2014/03/29/sharp-axe/) attributed to Abraham Lincoln: 
 > To Cut Down a Tree in Five Minutes Spend Three Minutes Sharpening Your Axe
 
 Anyway, what I think the quote is trying to say is, it's okay for things to take time. That is, if you're actively working on making the end result much better. 
@@ -19,7 +19,7 @@ This site for instance. I want to document my writings/thoughts but do not want 
 
 I also wanted a landing page to act as a place to direct people to first that needed to have a different style from the posts page. Also since I had this need to keep everything as small as possible, I decided to write the HTML and CSS from scratch and use next to no JavaScript. his was okay, since I had a snappy page, but any time I made a change or decided to incorporate or test something new, something inevitably broke[^3]. 
 
-#### The fix
+### The fix
 
 Just use a CSS framework for the landing site and a static site generator geared to blogs for the posts page. 
 
