@@ -28,7 +28,7 @@ menu:
   main:
     - identifier: Archives
       name: Archives
-      url: archives
+      url: archives/
       weight: 10
 
 markup:
