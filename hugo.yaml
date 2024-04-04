@@ -15,7 +15,6 @@ permalinks:
     post: "/:title/"
     # post: "/:year/:month/:day/:title/"
 
-
 params:
     ShowReadingTime: true
     ShowBreadCrumbs: true
@@ -24,7 +23,6 @@ params:
     ShowToc: true
     TocOpen: false
 
-
- homeInfoParams:
+homeInfoParams:
     layout: "archives"
     url: "/archives"
