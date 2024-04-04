@@ -22,4 +22,9 @@ params:
     ShowWordCounts: true
 
     ShowToc: true
-    TocOpen: true
+    TocOpen: false
+
+
+ homeInfoParams:
+    layout: "archives"
+    url: "/archives"
