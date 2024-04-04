@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://blog.designsaga.se"
 languageCode: en-us
 title: Sangeeth's Blog
 theme: hugo-PaperMod
@@ -28,7 +28,7 @@ menu:
   main:
     - identifier: Archives
       name: Archives
-      url: archives/
+      url: archives
       weight: 10
 
 markup:
