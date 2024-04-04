@@ -1,4 +1,4 @@
-baseURL: https://blog.designsaga.se/
+baseURL:
 languageCode: en-us
 title: Sangeeth's Blog
 theme: hugo-PaperMod
@@ -14,8 +14,6 @@ minify:
 permalinks:
     post: "/:title/"
     # post: "/:year/:month/:day/:title/"
-
-
 
 
 params:
