@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Sangeeth&#39;s Blog</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Sangeeth&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Apr 2024 23:05:17 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sharpen an Axe for Longer</title>
+      <link>//localhost:1313/posts/sharpen-an-axe-for-longer/</link>
+      <pubDate>Tue, 02 Apr 2024 23:05:17 +0200</pubDate>
+      <guid>//localhost:1313/posts/sharpen-an-axe-for-longer/</guid>
+      <description>The title is paraphrased from a quote that is incorrectly attributed to Abraham Lincoln:
+To Cut Down a Tree in Five Minutes Spend Three Minutes Sharpening Your Axe
+Anyway, what I think the quote is trying to say is, it&amp;rsquo;s okay for things to take time. That is, if you&amp;rsquo;re actively working on making the end result much better.
+Since I am a world renowned champion of doing things the easy way™ but also doing things good enough™, I have found that the only reliable method for both those phrases to be true is if I take time to understand/study/figure out what the problem is 1.</description>
+    </item>
+  </channel>
+</rss>
