@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://sheiksaga.github.io/hugo-blog"
 languageCode: en-us
 title: Sangeeth's Blog
 theme: hugo-PaperMod
