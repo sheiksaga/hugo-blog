@@ -28,7 +28,7 @@ menu:
   main:
     - identifier: Archives
       name: Archives
-      url: /archives
+      pageRef: /archives
       weight: 10
 
 markup:
