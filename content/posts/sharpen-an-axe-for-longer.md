@@ -2,6 +2,7 @@
 title = 'Sharpen an Axe for Longer'
 date = 2024-04-02T23:05:17+02:00
 draft = false
+summary = ""
 +++
 
 
