@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://blog.designsaga.se"
 languageCode: en-us
 title: Sangeeth's Blog
 theme: hugo-PaperMod
