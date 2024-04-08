@@ -1,6 +1,6 @@
 +++
 title = 'Sharpen an Axe for Longer'
-date = 2024-04-02T23:05:17+02:00
+date = 2024-04-06T23:05:17+02:00
 draft = false
 summary = ""
 +++
@@ -23,7 +23,7 @@ I also wanted a landing page to act as a place to direct people to first that ne
 
 Just use a CSS framework for the landing site and a static site generator geared to blogs for the posts page. 
 
-In my case this would be TailwindCSS and Hugo + Papermod. I could have saved a ton of headache earlier, by just spending some time with the really well written documentation online. I was being extra lazy and thought writing from scratch would be easier than learning something new [^4]. 
+In my case this would be [TailwindCSS](https://tailwindcss.com/) and [Hugo](https://gohugo.io/) + [Papermod](https://github.com/adityatelange/hugo-PaperMod). I could have saved a ton of headache earlier, by spending some time with the really well written documentation online. I was being extra lazy and thought writing ex nihilo would be easier than learning something new [^4]. 
 
 
 ### The exception that proves the rule
